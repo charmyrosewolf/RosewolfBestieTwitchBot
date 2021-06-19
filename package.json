@@ -1,0 +1,23 @@
+{
+  "name": "RosewolfBestieTwitchBot",
+  "version": "1.0.0",
+  "description": "A twitch chat bot made with ComfyJS",
+  "main": "rosewolfbestie.js",
+  "repository": "https://github.com/charmyrosewolf/RosewolfBestieTwitchBot",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ComfyJS",
+    "JavaScript",
+    "Bot",
+    "Chatbot",
+    "Twitch"
+  ],
+  "author": "charmyrosewolf",
+  "license": "MIT",
+  "dependencies": {
+    "comfy.js": "^1.1.12",
+    "dotenv": "^10.0.0"
+  }
+}
